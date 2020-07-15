@@ -1,0 +1,25 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 80px 25px 0 25px;
+  font-size: 15px;
+  background-color: #fafafa;
+}
+
+.description {
+  text-align: center;
+}
+
+.heading {
+  font-weight: 200;
+  margin-bottom: 2px;
+  color: #4c4e61;
+}
+
+.sub-heading {
+  margin: 0;
+  color: #4c4e61;
+}
+
+.description p {
+  color: #a3a5ae;
+}
