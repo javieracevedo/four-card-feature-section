@@ -4,9 +4,9 @@ My solution for the frontend mentor's [four cards section challenge](https://www
 
 ### Desktop Layout
 
-![Huddle landing page desktop preview.](./assets/desktop-solution.png)
+![Four cards section desktop preview.](./solution-previews/desktop-solution.png)
 
 
 ### Mobile Layout
 
-![Huddle landing page mobile preview.](./assets/mobile-solution.png)
+![Four cards section mobile preview.](./solution-previews/mobile-solution.png)
